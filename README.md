@@ -1,5 +1,6 @@
 
 # Sentiment analysis on vaccination tweets using VADER and TextBlob
+### 2179088 - Group One
 ## This repository consists of:
 1. The dataset used for this task: vaccination_tweets-1.csv
 2. A Jupyter Notebook file containing the detailed code used for processing and analysing data: 2179088_notebook.ipynb
